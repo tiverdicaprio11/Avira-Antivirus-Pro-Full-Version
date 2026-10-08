@@ -243,4 +243,4 @@ This repository serves as the official landing page for Avira Antivirus Pro. The
 **Get the most recent version of Avira Antivirus Pro today!**
 
 ---
-**Last updated:** 2026-10-08 02:28:43 UTC
+**Last updated:** 2026-10-08 09:56:48 UTC
